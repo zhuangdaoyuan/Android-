@@ -1,0 +1,59 @@
+OkHttp相关
+
+OkHttp的优点
+
+OkHttp执行请求的整个流程
+
+OkHttp中的拦截器
+
+OkHttp中的同步请求与异步请求的理解及其源码
+
+OkHttp中涉及到的设计模式
+
+OkHttp底层网络请求实现，socket还是URLConnection
+
+Retrofit相关
+
+Retrofit执行请求的整个流程
+
+Retrofit中ConverterFactory、CallAdapterFactory的理解
+
+Retrofit中CallAdapter的适配器模式
+
+RxJava相关
+
+RxJava常用创建操作符 create、from、just、interval、range等
+
+RxJava常用组合、合并操作符 combineLatest、join、merge、zip等
+
+RxJava错误处理操作符 onErrorReturn、onErrorResumeNext、onExceptionResumeNext等
+
+RxJava过滤操作符 filter、ofType、sample、take等
+
+Rxjava背压相关理解
+
+RxJava实际开发中的使用：网络请求轮询、网络请求嵌套回调、从磁盘 / 内存缓存中 获取缓存数据等
+
+Glide相关
+
+Glide的执行流程
+
+Glide的缓存机制
+
+Glide图片转换
+
+Glide带进度的图片加载功能
+
+Glide内存、磁盘缓存，优先级使用
+
+ButterKnife相关
+
+Java注解相关Annotation
+
+Java注解相关之APT工具
+
+ButterKnife注解框架原理
+
+EventBus相关
+
+EventBus原理，及索引类的使用
