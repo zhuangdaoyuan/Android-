@@ -6,4 +6,7 @@ Java基础知识，Android知识，网络（Retrofit,RxJava），算法，设计
 
 
 ## Android知识
+
+### 屏幕适配
+[今日头条适配方式](https://www.jianshu.com/p/1eeb0d8d1c86)
    
