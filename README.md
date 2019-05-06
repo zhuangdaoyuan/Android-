@@ -22,6 +22,8 @@ Java基础知识，Android知识，网络（Retrofit,RxJava），算法，设计
 
 [Java类加载器（双亲委派模型）](https://www.cnblogs.com/doit8791/p/5820037.html)
 
+[Java泛型基础](https://www.toutiao.com/a6685474413103546884/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1556597473&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=201904301211120100160441946828BDD&group_id=6685474413103546884)
+
 ### 集合相关
 
 [ArrayList分析](https://www.cnblogs.com/xujian2014/p/4625346.html)
