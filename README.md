@@ -88,10 +88,25 @@ IO相关面试问题-Socket
 
 IO相关面试问题-BIO／NIO
 
+### 算法相关
+常见的八大排序方式
+
+时间复杂度的计算
+
+链表相关算法，链表翻转，链表合并等
+
+二叉树相关算法前序、中序、后序遍历（递归，迭代）
+
+​红黑树与BL树
+
 ## Android知识
 
 ### 屏幕适配
 [今日头条适配方式](https://www.jianshu.com/p/1eeb0d8d1c86)
+
+[宽高限定符适配方式]
+
+smallestWidth适配
    
 ### ART
 [ART虚拟机](https://www.cnblogs.com/manuosex/p/3634375.html)
@@ -257,7 +272,144 @@ ListView和RecyclerView的区别
 GreenDao中一对一，一对多，多对多关系
 
 SharedPreferences使用及源码，commit与apply()方法的区别
+
+### Android 高版本差异
+
+广播在7.0、8.0、9.0下的适配 
+Android 6.0 权限下的适配 
+Android 7.0应用共享文件（FileProvider) 
+Android 7.0 共享文件的使用方式
+
+### Android打包相关
+安卓签名的理解
+
+Gradle多渠道打包
+
+
    
    
 ## Android进阶
+ ### 性能优化:
+
+布局优化、绘制优化、线程优化等
+
+ANR异常:主线程执行了耗时操作，如BroadcastReceiver(前台广播10s,后台广播为60s)、Service(前台20s,后台200s)没有处理完相关任务等
+
+OOM异常：内存溢出的原因
+
+内存泄漏：内存泄露的几种场景，如单例模式引出的泄露、静态变量导致的泄露、属性动画导致的内存泄露等
+
+### Android架构相关
+
 [腾讯，阿里，百度Android高级岗；全方位性能调优技术体系详解](https://juejin.im/post/5cc5a356518825250762c6ce)
+
+MVC架构设计模式面试问题讲解
+
+MVP架构设计模式面试问题讲解
+
+MVVM架构设计模式面试问题讲解
+
+## 第三方开源框架
+OkHttp相关
+
+OkHttp的优点
+
+OkHttp执行请求的整个流程
+
+OkHttp中的拦截器
+
+OkHttp中的同步请求与异步请求的理解及其源码
+
+OkHttp中涉及到的设计模式
+
+OkHttp底层网络请求实现，socket还是URLConnection
+
+Retrofit相关
+
+Retrofit执行请求的整个流程
+
+Retrofit中ConverterFactory、CallAdapterFactory的理解
+
+Retrofit中CallAdapter的适配器模式
+
+RxJava相关
+
+RxJava常用创建操作符 create、from、just、interval、range等
+
+RxJava常用组合、合并操作符 combineLatest、join、merge、zip等
+
+RxJava错误处理操作符 onErrorReturn、onErrorResumeNext、onExceptionResumeNext等
+
+RxJava过滤操作符 filter、ofType、sample、take等
+
+Rxjava背压相关理解
+
+RxJava实际开发中的使用：网络请求轮询、网络请求嵌套回调、从磁盘 / 内存缓存中 获取缓存数据等
+
+Glide相关
+
+Glide的执行流程
+
+Glide的缓存机制
+
+Glide图片转换
+
+Glide带进度的图片加载功能
+
+Glide内存、磁盘缓存，优先级使用
+
+ButterKnife相关
+
+Java注解相关Annotation
+
+Java注解相关之APT工具
+
+ButterKnife注解框架原理
+
+EventBus相关
+
+EventBus原理，及索引类的使用
+
+## 网络相关
+
+计算机网络三种体系架构，OSI体系架构（7层）、TCP/IP体系架构(4层)，五层体系架构
+
+TCP的连接管理（三报文握手，四报文握手）
+
+TCP与UDP的理解与区别
+
+Http（HyberText Transfer Protocol）基本概念及报文结构
+
+Http常见错误码
+
+Http1.0与Http1.1与Http2.0的区别
+
+Http中get请求与post请求的区别
+
+Http中cookie与session的区别
+
+Http与Https的区别
+
+Https加密算法相关面试问题，签名证书，公钥私钥、数字摘要的理解
+
+## 设计模式相关
+
+单例模式
+
+Builder模式
+
+装饰模式
+
+策略模式
+
+模板方法
+
+观察者模式
+
+工厂方法模式
+
+状态模式
+
+适配器模式
+
+外观模式
