@@ -282,6 +282,9 @@ Android 6.0 权限下的适配
 Android 7.0应用共享文件（FileProvider) 
 Android 7.0 共享文件的使用方式
 
+###蓝牙
+[Blutooth](https://www.cnblogs.com/wenjiang/p/3200138.html)
+
 ### Android打包相关
 安卓签名的理解
 
