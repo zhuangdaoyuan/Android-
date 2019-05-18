@@ -40,7 +40,7 @@ HashSet分析
 
 LinkedHashSet分析
 
-[ArrayMap、SparseMap、与HashMap的对比](https://www.cnblogs.com/zly1022/p/7743466.html)
+[ArrayMap、SparseArray、与HashMap的对比](https://www.cnblogs.com/zly1022/p/7743466.html)
 
 ConcurrentHashMap分析
 
@@ -313,6 +313,9 @@ MVC架构设计模式面试问题讲解
 MVP架构设计模式面试问题讲解
 
 MVVM架构设计模式面试问题讲解
+
+###IPC
+[Binder](https://www.cnblogs.com/xinmengwuheng/p/7070167.html)
 
 ## 第三方开源框架
 OkHttp相关
