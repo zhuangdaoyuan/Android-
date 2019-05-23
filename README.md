@@ -90,6 +90,9 @@ IO相关面试问题-Socket
 
 IO相关面试问题-BIO／NIO
 
+### 注解
+[RetentionPolicy]{https://www.jianshu.com/p/208c2ee5f18b}
+
 ## 算法相关
 常见的八大排序方式
 
