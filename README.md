@@ -432,3 +432,7 @@ Builder模式
 
 ## SDK
 [SDK设计原则](https://www.cnblogs.com/0616--ataozhijia/p/8982562.html)
+
+## Flutter相关
+
+[Flutter原理：三棵重要的树(渲染过程、布局约束、应用视图的构建等)](https://www.jianshu.com/p/a56345281a8f)
