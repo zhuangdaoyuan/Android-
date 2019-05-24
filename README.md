@@ -429,3 +429,6 @@ Builder模式
 
 ## Git
 [Git详细教程- 提取码: yy2a](https://pan.baidu.com/s/18Gvj1mAyuP1cJU0yCTuzGg)
+
+## SDK
+[SDK设计原则](https://www.cnblogs.com/0616--ataozhijia/p/8982562.html)
