@@ -436,3 +436,9 @@ Builder模式
 ## Flutter相关
 
 [Flutter原理：三棵重要的树(渲染过程、布局约束、应用视图的构建等)](https://www.jianshu.com/p/a56345281a8f)
+
+## DNK开发相关
+[NDK入门知识](https://blog.csdn.net/afei__/article/details/81290711)
+[CMake手册](https://www.cnblogs.com/lsgxeva/p/9454443.html)
+
+
