@@ -307,6 +307,8 @@ OOM异常：内存溢出的原因
 
 内存泄漏：内存泄露的几种场景，如单例模式引出的泄露、静态变量导致的泄露、属性动画导致的内存泄露等
 
+[解决 APP 中 90 % 的内存异常问题--鸿洋](https://mp.weixin.qq.com/s/eQa9CxxTtChMVZ_kdwYEcw)
+
 ### Android架构相关
 
 [腾讯，阿里，百度Android高级岗；全方位性能调优技术体系详解](https://juejin.im/post/5cc5a356518825250762c6ce)
